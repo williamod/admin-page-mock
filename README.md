@@ -1,1 +1,1 @@
-# admin-page-mock
+Mock Admin page for personal educational purposes through The Odin Project.
